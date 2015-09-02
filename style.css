@@ -1,0 +1,28 @@
+/*
+My first CSS file
+*/
+
+/* Global Styling */
+
+html {
+  font-family: sans-serif;
+}
+
+/* Styles for headings */
+
+h1 {
+  color: red;
+  font-family: serif;
+}
+
+h3 {
+  color: blue;
+}
+
+.blue-heading {
+  color: blue;
+}
+
+.green-heading {
+  color: green;
+}
